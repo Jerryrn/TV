@@ -26,7 +26,7 @@ https://live.qztv.cn/live/mny.m3u8
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",厦门卫视TEST-3
 http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221226996/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",海峡卫视HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1008/31c5b7ff74ece8194ae3184778863e74.jpg" group-title="福建",海峡卫视HD
 rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1020/1476ccab5092706f9431286a1a8fbd3e.jpg" group-title="福建",厦门1
 https://xiamenalic.v.myalicdn.com/xiamen/xiamen1_1/index.m3u8
