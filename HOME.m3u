@@ -28,15 +28,15 @@ http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
 http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221226996/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",海峡卫视HD
 rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",厦门1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1020/1476ccab5092706f9431286a1a8fbd3e.jpg" group-title="福建",厦门1
 https://xiamenalic.v.myalicdn.com/xiamen/xiamen1_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",厦门2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1020/4a797ed656d2b21b67096c243b106156.jpg" group-title="福建",厦门2
 https://xiamenalic.v.myalicdn.com/xiamen/xiamen2_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",厦门3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1020/760e0d4aac3b2a20d8d96f5d6b37ae75.jpg" group-title="福建",厦门3
 https://xiamenalic.v.myalicdn.com/xiamen/xiamen3_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",厦门4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1020/770d1407dade7bd707deb61d67b3057a.jpg" group-title="福建",厦门4
 https://xiamenalic.v.myalicdn.com/xiamen/xiamen4_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",厦门卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/4a991cd85dd7502f614f7b9774210b50.jpg" group-title="福建",厦门卫视
 https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/357e530e913318a0f6b706eb33f65974.jpg" group-title="福建",福建综合
 http://live2.fjtv.net/zhpd/playlist.m3u8?_upt=389e63891641203050
@@ -47,9 +47,9 @@ http://live2.fjtv.net/xwpd/playlist.m3u8?_upt=96874e2f1641200663
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/c590351d8ac74baa45dd3766cb4478b5.jpg" group-title="福建",福建电视剧
 http://live3.fjtv.net/dsjpd/playlist.m3u8?_upt=2292abb01641205239
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2017/0202/056e3f58b261461e978dad459a8dbedc.png" group-title="福建",福建旅游
-http://live3.fjtv.net/dspd/playlist.m3u8?_upt=28f98eec1641203576
+http://live3.fjtv.net/dspd/playlist.m3u8?_upt=34f7c63b1641235113
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/e44e6d29140e0e77e329222c52424bb6.jpg" group-title="福建",福建经济
-http://live3.fjtv.net/jjpd/playlist.m3u8?_upt=f96a38221641105182
+http://live3.fjtv.net/jjpd/playlist.m3u8?_upt=968d15da1641234479
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/2bcd1921507542b30d7a4e0f81c50b19.jpg" group-title="福建",福建体育
 http://live3.fjtv.net/typd/playlist.m3u8?_upt=bc5d9a891641203099
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/740fac7d9f94c3b29d9d508fb5972186.jpg" group-title="福建",福建少儿
