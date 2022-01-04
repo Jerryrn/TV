@@ -64,7 +64,7 @@ http://stream3.fjtv.net/pttv2/playlist.m3u8?_upt=057217011641322835
 http://stream3.fjtv.net/xylive/playlist.m3u8?_upt=df9911001641321675
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2019/1026/6c08bc711395267ac3e8fa5fdb832435.jpg" group-title="福建",三明尤溪综合
 http://stream10.fjtv.net/yxtvnews/playlist.m3u8?_upt=8083d5781641084315
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/0921/aa82904eb024279ca456acad0ffc01ce.jpg" group-title="福建",凤凰卫视中文台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/0921/aa82904eb024279ca456acad0ffc01ce.jpg" group-title="港台",凤凰卫视中文台
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg" group-title="福建",凤凰卫视资讯台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg" group-title="港台",凤凰卫视资讯台
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
