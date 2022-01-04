@@ -18,9 +18,9 @@ http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 http://stream.jinjiang.tv/1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2020/1128/c023564ce04fe788cfe234cbc4102f7a.jpg" group-title="福建",石狮电视台
 https://live.chinashishi.net/ssxwzh/playlist.m3u8?_upt=0907afd11640952631
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",泉州综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2018/0123/5f4f719fdbbe570467a3703a2a922d4b.jpg" group-title="福建",泉州综合
 https://live.qztv.cn/live/news.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",泉州闽南语
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2018/0123/ea6c4b7acfe2f614cf1de38ff4145009.jpg" group-title="福建",泉州闽南语
 https://live.qztv.cn/live/mny.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",厦门卫视TEST-2
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
