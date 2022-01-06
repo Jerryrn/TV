@@ -72,6 +72,12 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 http://live1.ahtv.cn/ahws/playlist.m3u8?_upt=821dcc421641465354
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2014/1014/20141014100423640.jpg" group-title="卫视",湖南卫视
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2019/0801/2bc42b992ea918b8649261476ad427b9.png" group-title="CGTN",CGTN NEWS
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2017/0122/472e73d5b683be2296757dbbf3a82dba.png" group-title="CGTN",CGTN 记录
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+
 
 
 
