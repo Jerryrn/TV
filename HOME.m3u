@@ -1,11 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="福建",东南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",福建福州影视台
-http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",福建厦门第一台
-http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen1_2/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1008/31c5b7ff74ece8194ae3184778863e74.jpg" group-title="福建",海峡卫视HD
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jinjiang.tv/t/icon/201609/20160908140648VDtC.png" group-title="福建",晋江电视台
+http://stream.jinjiang.tv/1/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2020/1128/c023564ce04fe788cfe234cbc4102f7a.jpg" group-title="福建",石狮电视台
+https://live.chinashishi.net/ssxwzh/playlist.m3u8?_upt=0907afd11640952631
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1020/ac6bd6adced81cd15a24ab3652f2d61e.jpg" group-title="福建",福州新闻综合
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1020/8a0526e31670f648ea4796c3fd1c5748.jpg" group-title="福建",福州影视
@@ -14,10 +15,10 @@ http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1020/d479aedd2d8fa24b0a8dc369a83d1cd6.jpg" group-title="福建",福建福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jinjiang.tv/t/icon/201609/20160908140648VDtC.png" group-title="福建",晋江电视台
-http://stream.jinjiang.tv/1/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2020/1128/c023564ce04fe788cfe234cbc4102f7a.jpg" group-title="福建",石狮电视台
-https://live.chinashishi.net/ssxwzh/playlist.m3u8?_upt=0907afd11640952631
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/0921/aa82904eb024279ca456acad0ffc01ce.jpg" group-title="港台",凤凰卫视中文台
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg" group-title="港台",凤凰卫视资讯台
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2018/0123/5f4f719fdbbe570467a3703a2a922d4b.jpg" group-title="福建",泉州综合
 https://live.qztv.cn/live/news.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2018/0123/ea6c4b7acfe2f614cf1de38ff4145009.jpg" group-title="福建",泉州闽南语
@@ -26,8 +27,7 @@ https://live.qztv.cn/live/mny.m3u8
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",厦门卫视TEST-3
 http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221226996/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1008/31c5b7ff74ece8194ae3184778863e74.jpg" group-title="福建",海峡卫视HD
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1020/1476ccab5092706f9431286a1a8fbd3e.jpg" group-title="福建",厦门1
 https://xiamenalic.v.myalicdn.com/xiamen/xiamen1_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1020/4a797ed656d2b21b67096c243b106156.jpg" group-title="福建",厦门2
@@ -64,10 +64,7 @@ http://stream3.fjtv.net/pttv2/playlist.m3u8?_upt=057217011641322835
 http://stream3.fjtv.net/xylive/playlist.m3u8?_upt=df9911001641321675
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2019/1026/6c08bc711395267ac3e8fa5fdb832435.jpg" group-title="福建",三明尤溪综合
 http://stream10.fjtv.net/yxtvnews/playlist.m3u8?_upt=8083d5781641084315
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/0921/aa82904eb024279ca456acad0ffc01ce.jpg" group-title="港台",凤凰卫视中文台
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg" group-title="港台",凤凰卫视资讯台
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2014/0116/20140116014331377.jpg" group-title="卫视",安徽卫视
 http://live1.ahtv.cn/ahws/playlist.m3u8?_upt=821dcc421641465354
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2014/1014/20141014100423640.jpg" group-title="卫视",湖南卫视
@@ -77,7 +74,8 @@ http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2017/0122/472e73d5b683be2296757dbbf3a82dba.png" group-title="CGTN",CGTN 记录
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",福建福州影视台
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",福建厦门第一台
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen1_2/index.m3u8
 
