@@ -3,8 +3,8 @@
 http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1008/31c5b7ff74ece8194ae3184778863e74.jpg" group-title="福建",海峡卫视HD
 rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jinjiang.tv/t/icon/201609/20160908140648VDtC.png" group-title="福建",晋江电视台
-http://stream.jinjiang.tv/1/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://filestorage.ijjnews.com/file/storage1-cloudlivemanage/cloudlivemanage/2026/1067/0f5007bcbfe40cd8.jpg" group-title="福建",晋江电视台
+https://live.ijjnews.com/jjtv/sd/live.m3u8?_upt=1431191c1780783263
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2020/1128/c023564ce04fe788cfe234cbc4102f7a.jpg" group-title="福建",石狮电视台
 https://live.chinashishi.net/ssxwzh/playlist.m3u8?_upt=0907afd11640952631
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1020/ac6bd6adced81cd15a24ab3652f2d61e.jpg" group-title="福建",福州新闻综合
@@ -20,9 +20,9 @@ http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg" group-title="港台",凤凰卫视资讯台
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2018/0123/5f4f719fdbbe570467a3703a2a922d4b.jpg" group-title="福建",泉州综合
-https://live.qztv.cn/live/news.m3u8
+https://live.qztv.cn/live/news20260520_lld.m3u8?auth_key=1780772140-0-0-b03040e6e2ebafb12eb6a929850f164f|Referer=https://www.qztv.cn/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2018/0123/ea6c4b7acfe2f614cf1de38ff4145009.jpg" group-title="福建",泉州闽南语
-https://live.qztv.cn/live/mny.m3u8
+https://live.qztv.cn/live/mny20260520_lld.m3u8?auth_key=1780775844-0-0-06e038132ac11b4f20a9d64fcd6288d4|Referer=https://www.qztv.cn/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",厦门卫视TEST-2
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",厦门卫视TEST-3
