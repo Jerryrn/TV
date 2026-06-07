@@ -20,7 +20,7 @@ http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg" group-title="港台",凤凰卫视资讯台
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2018/0123/5f4f719fdbbe570467a3703a2a922d4b.jpg" group-title="福建",泉州综合
-https://live.qztv.cn/live/news20260520_lld.m3u8?auth_key=1780772140-0-0-b03040e6e2ebafb12eb6a929850f164f|Referer=https://www.qztv.cn/
+ https://live.qztv.cn/live/news20260520_lld.m3u8?auth_key=1780838107-0-0-c8420e484d14f24b599ced91f19f1e57|Referer=https://www.qztv.cn/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haoqu99.com/d/file/2018/0123/ea6c4b7acfe2f614cf1de38ff4145009.jpg" group-title="福建",泉州闽南语
 https://live.qztv.cn/live/mny20260520_lld.m3u8?auth_key=1780775844-0-0-06e038132ac11b4f20a9d64fcd6288d4|Referer=https://www.qztv.cn/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",厦门卫视TEST-2
